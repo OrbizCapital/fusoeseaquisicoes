@@ -1,0 +1,8 @@
+{
+    "query": "fusão aquisição M&A",
+    "days": 30,
+    "max_pages": 3,
+    "parallel": true,
+    "schedule_time": "04:00",
+    "enabled": true
+}
